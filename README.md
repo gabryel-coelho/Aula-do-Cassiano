@@ -1,7 +1,7 @@
 # Aula-do-Cassiano
 Educação Digital
 
-# Trabalho do Cassio - Meu README
+# Trabalho do Cassiano - Meu README
 
 ## Um meme
 ### Assista o vídeo abaixo
