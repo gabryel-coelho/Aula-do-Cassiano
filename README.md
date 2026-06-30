@@ -1,21 +1,20 @@
 # Aula-do-Cassiano
 Educação Digital
 
-# Um título sobre o trabalho de  vocês
+# Trabalho do Cassio - Meu README
 
-## Um subtítulo sobre um tema específico sobre o trabalho de vocês
-### AAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[Trovoa - A Banda mais bonita da cidade](https://www.youtube.com/watch?v=lcgHsSWvDRA&list=RDlcgHsSWvDRA&start_radio=1)
+## Um meme
+### Assista o vídeo abaixo
+[Questionando senhores na rua sobre prova da interpol](https://www.youtube.com/watch?v=fTsjwIoDXT0)
 
+_Esse senhor é bilingue, sabe até falar inglês_
 
-_Esta música é beeeeem legal_
+**Eu gosto muito da parte "Feijão com farinha"**
 
-**Eu gosto muito da parte "Um simples ato de cheirar-te, me cheira a arte"**
+- Esse vídeo foi gravado por um cidadão que questionou um senhor
+- A questão dizia sobre fazer uma prova da interpol e tinha que falar uma frase em inglês
 
-- Ela foi escrita por um artista que se chama Maurício Pereira
-- Foi regravada pela Banda Mais Bonita da Cidade
+![Homem pulando em um buraco fundo](https://tenor.com/pt-BR/view/undertale-undertael-man-falling-to-the-hell-die-gif-23891371)
+![driftando com carrinho de brinquedo](https://tenor.com/pt-BR/view/car-gif-2827160320116449726)
 
-![gato de boca aberta ouvindo trovão assustado](https://media.tenor.com/dYDlDrsJhsUAAAAC/tongue-cat-tongue-out.gif)
-![menino dançando](https://media1.tenor.com/m/e67mESTRcVAAAAAC/dance.gif)
-
-![rapaz dançando no rodeio](https://media1.tenor.com/m/YawokZurd2wAAAAd/cowboy-dancing.gif)
+![gato fazendo drift](https://tenor.com/pt-BR/view/cat-drift-catdrift-gif-16095187850320735968)
